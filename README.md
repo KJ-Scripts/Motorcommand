@@ -3,3 +3,5 @@ Gebruik /motor om een Cliffhanger in te spawnen! 1x per restart per persoon te g
 
 # Dependencies
 - ES_Extended
+
+Veel plezier met gebruiken!
